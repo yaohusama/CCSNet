@@ -2,7 +2,7 @@
 
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">CCSNet:Cross-Stage Class-Specific Attention for Image
+    <b><font size="20">CCSNet:Cross-Stage Class-Specific Attention for Image
 Semantic Segmentation</font></b>
 
 

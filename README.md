@@ -34,6 +34,11 @@ English | [简体中文](README_zh-CN.md)
 
 </div>
 
+
+
+This is the official code implementation of the paper written by my
+colleague, called "Cross-Stage Class-Specific Attention for Image Semantic Segmentation".
+
 ## Introduction
 
 Instead of simply incorporating features

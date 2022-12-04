@@ -20,7 +20,7 @@ model = dict(
             loss_decode=dict(
                 type='CrossEntropyLoss', use_sigmoid=False, loss_weight=0.4)),
         dict(
-            type='SegFormerHead',
+            type='CCSNetHead',
             in_channels=[64, 128, 320, 512],
             in_index=[0, 1, 2, 3],
             feature_strides=[4, 8, 16, 32],

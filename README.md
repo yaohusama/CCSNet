@@ -2,8 +2,8 @@
 
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="20">CCSNet:Cross-Stage Class-Specific Attention for Image
-Semantic Segmentation</font></b>
+    <h1>CCSNet:Cross-Stage Class-Specific Attention for Image
+Semantic Segmentation</h1>
 
 
   </div>
